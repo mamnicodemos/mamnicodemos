@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @mamnicodemos
-- 👀 I’m interested in web, Android, iOS and general application development.  Worked in full-stack LAMP development for several years and am currently building my
-     skills in Node.js.
-- 🌱 I’m currently learning Node.
-- 💞️ I’m looking to collaborate on Android/iOS game development.  Graphic designers, sound effects specialists and digital musicians are welcome to contact me.
-- 📫 How to reach me: visit my website www.mmnicodemos.com
+- 👋 Hi, I’m @mamnicodemos, and I’m a web and application developer with more than seven years experience as full-stack software developer, havig worked primarily with LAMP, IIS, C# and VB.NET, Node and React configurations.
+- 💞️ Aside from full-stack development, I’m a budding game developer with a number of Android and iOS projects available on the Play Store and App Store.
+- 📫 Feel free to check out my work on my website: www.mmnicodemos.com
 
 <!---
 mamnicodemos/mamnicodemos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
